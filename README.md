@@ -1,8 +1,7 @@
-# 이교준 기술스택
 
 
 <div align="center">
-
+<strong>FrontEnd</strong>
 ✨<strong>Tech Stack</strong>✨
 
 <br/>
@@ -18,6 +17,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Styled-Components-102030?style=flat&logo=Styled-components&logoColor=white">
 
 <br/><br/>
 
