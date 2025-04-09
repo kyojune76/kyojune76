@@ -1,4 +1,4 @@
-## Hi there this is 이교준👋
+# 이교준 기술스택
 
 
 <div align="center">
