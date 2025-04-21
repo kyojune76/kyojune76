@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/StyledComponents-102030?style=flat&logo=Styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/StyledComponents-1025530?style=flat&logo=Styled-components&logoColor=white">
 
 <br/><br/>
 
