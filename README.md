@@ -23,9 +23,7 @@
 
 <strong>🛠️ Tools 🛠️</strong>
 
-<img src="https://img.shields.io/badge/Notion-002ㅇ024?style=flat&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-0000024?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 
 </div>
