@@ -23,7 +23,7 @@
 
 <strong>🛠️ Tools 🛠️</strong>
 
-<img src="https://img.shields.io/badge/Notion-100100100?style=flat&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-D3D3D3?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 
 </div>
