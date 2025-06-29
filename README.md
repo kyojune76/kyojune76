@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<strong>FrontEnd</strong>
+
   <br/>
 ✨<strong>Tech Stack</strong>✨
 
