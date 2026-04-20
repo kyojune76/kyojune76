@@ -3,10 +3,9 @@
 ## Skills
 - Web Hacking
 - Android Security
-- CTF (Dreamhack)
 - Dreamhack Wargame : Ranking 945
-- File Carving
-
+- Forensics(File Carving, Disk Imaging,정적분석,동적분석)
+  
 - JavaScript
 - React / Node.js
 - HTML / CSS
