@@ -4,7 +4,7 @@
 - Web Hacking
 - Android Security
 - Dreamhack Wargame : Ranking 945
-- Forensics(File Carving, Disk Imaging,정적분석,동적분석)
+- Forensics(File Carving , Disk Imaging , 정적분석 , 동적분석)
   
 - JavaScript
 - React / Node.js
